@@ -1,0 +1,21 @@
+{
+    "name": "sequence/interfaces",
+    "description": "Interface package for Sequence framework",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sequence\\Interfaces\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Callum Hopkins",
+            "email": "callum.e.hopkins@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "psr/container": "1.1.1"
+    }
+}
