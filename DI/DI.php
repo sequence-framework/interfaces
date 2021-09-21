@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Sequence\Interfaces;
+namespace Sequence\Interfaces\DI;
 
 use Psr\Container\ContainerInterface;
 
